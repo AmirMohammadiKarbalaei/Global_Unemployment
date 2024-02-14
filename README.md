@@ -10,11 +10,16 @@ Understanding the shifts in global unemployment dynamics remains paramount for p
 Contained within the dataset are crucial columns such as country name, indicator, gender, age group, and annual unemployment rates covering the period from 2014 to 2024. This expansive dataset facilitates profound analysis and correlation studies. Through examining the intricate connections between age, gender, and unemployment rates, researchers can derive invaluable insights into the complexities of the global workforce dynamics.
 
 ## Key Findings
-### 1. Countries with Highest and Lowest Average Unemployment Rates:
-<p align="right">
-  <img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2" alt="Highest unemployment countries" width="400">
-</p>
-*Caption:  Highest unemployement countries
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p><b>Countries with Highest Average Unemployment Rates</b></p>
+    <p>This graph illustrates the countries with the highest average unemployment rates from 2014 to 2024.</p>
+    <p>Caption: Highest unemployment countries</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2" alt="Highest unemployment countries" width="400">
+  </div>
+</div>
 
 ![Lowest unemployement countries](https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/3880d30d-8c56-4f2d-a2b4-895f6e0fdb0e)
 *Caption: Lowest unemployement countries
