@@ -12,6 +12,16 @@ Contained within the dataset are crucial columns such as country name, indicator
 ## Key Findings
 
 ### 1. Countries with Highest and Lowest Average Unemployment Rates:
+
+<p align="Right">
+  <img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2" alt="Highest unemployment countries" width="500">
+</p>
+
+<p align="left">
+  <img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2" alt="Highest unemployment countries" width="500">
+</p>
+
+
 ![Highest unemployment countries](https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2)
 *Caption: Graph showing countries with the highest average unemployment rates from 2014 to 2024.*
 
