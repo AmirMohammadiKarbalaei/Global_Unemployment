@@ -28,8 +28,17 @@ After analysing the data to uncover relationships between unemployment rates and
 ![Unemployment Rate for age groups boxplot](https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/527670cf-fde9-4c7f-835f-3418e25df9ae)
 Unemployment Rate for Age Groups
 
-### 3. Genders:
+
+![Average Unemployment Rate for age groups](https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/89842654-63ae-4d8f-893c-71d6960869ca)
+Average Unemployment Rate for Age Groups
+
+
+
+### 4. Genders:
 
 The analysis of genders led to the creation of the last line chart, illustrating the changes in unemployment rates for each gender over time. The trends in both lines exhibit remarkable similarity, indicating a strong positive correlation, suggesting that the effective unemployment rates for both genders are similar. However, there is a notable difference between the mean unemployment rates of each gender. As depicted in the figure, the unemployment rate is higher for females compared to males. This difference could potentially be attributed to unequal opportunities for the genders.
 ![Gendre unemployment rates](https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/dff9a951-5f92-4838-bffd-be746e36374a)
-Gendre unemployment rates
+Gender unemployment rates
+
+
+
