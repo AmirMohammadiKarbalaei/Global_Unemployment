@@ -14,10 +14,10 @@ Contained within the dataset are crucial columns such as country name, indicator
 ### 1. Countries with Highest and Lowest Average Unemployment Rates:
 
 
-<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2" alt="Highest unemployment countries" width="600" align="right">
+<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/147c9787-29c6-4c2c-91d3-b5dfa6e03fd2" alt="Highest unemployment countries" width="400" align="right">
 
 
-<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/3880d30d-8c56-4f2d-a2b4-895f6e0fdb0e" alt="Lowest unemployement countries" width="600">
+<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/3880d30d-8c56-4f2d-a2b4-895f6e0fdb0e" alt="Lowest unemployement countries" width="400">
 
 
 
@@ -31,10 +31,10 @@ Contained within the dataset are crucial columns such as country name, indicator
 - After analysing the data to uncover relationships between unemployment rates and age groups, it was discovered that the unemployment rate for the 15-24 age group, with a median of 18%, is approximately 2.5 times higher than the unemployment rate for those under 15, which has a median of 8%. Additionally, the median unemployment rate for individuals aged 25 and above was found to be 7%. This notable decrease from the 15-24 age group to the 25 and above category could potentially be attributed to the accumulation of work experience, which may aid in securing employment opportunities.
 
 
-<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/527670cf-fde9-4c7f-835f-3418e25df9ae" alt="Unemployment Rate for age groups boxplot" width="600" align="right">
+<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/527670cf-fde9-4c7f-835f-3418e25df9ae" alt="Unemployment Rate for age groups boxplot" width="400" align="right">
 
 
-<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/89842654-63ae-4d8f-893c-71d6960869ca" alt="Average Unemployment Rate for age groups" width="600">
+<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/89842654-63ae-4d8f-893c-71d6960869ca" alt="Average Unemployment Rate for age groups" width="400">
 
 
 
@@ -43,7 +43,7 @@ Contained within the dataset are crucial columns such as country name, indicator
 - The analysis of genders led to the creation of the last line chart, illustrating the changes in unemployment rates for each gender over time. The trends in both lines exhibit remarkable similarity, indicating a strong positive correlation, suggesting that the effective unemployment rates for both genders are similar. However, there is a notable difference between the mean unemployment rates of each gender. As depicted in the figure, the unemployment rate is higher for females compared to males. This difference could potentially be attributed to unequal opportunities for the genders.
 
 
-<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/dff9a951-5f92-4838-bffd-be746e36374a" alt="Gendre unemployment rates" width="600" align="center">
+<img src="https://github.com/AmirMohammadiKarbalaei/Global_Unemployment/assets/93831888/dff9a951-5f92-4838-bffd-be746e36374a" alt="Gendre unemployment rates" width="400" align="center">
 
 
 
